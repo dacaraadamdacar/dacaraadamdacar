@@ -1,54 +1,30 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Network+Engineer;CCNA+%26+CCNP;ISP+Experience;Open+to+Work)
+
 # Hey 👋 I'm Mohamed Adan Mohamud
 
 🚀 Network Engineer | CCNA & Cisco Enterprise Core (CCNP)  
-🎓 M.Tech in Communication Engineering  
-🌍 Based in Spain | Open to Work  
+🎓 M.Tech in Communication Engineering – KIIT University, India  
+🌍 Based in Somalia | Open to Work
+---
+
+## ⚙️ Skills
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
+![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=for-the-badge)
+![Security](https://img.shields.io/badge/Network%20Security-red?style=for-the-badge)
 
 ---
 
-## 🧠 Professional Summary
-Junior Network Engineer with hands-on experience in ISP operations, enterprise network design, and advanced routing protocols. Passionate about designing scalable, secure, and efficient network infrastructure
+## 📌 Projects
+🔹 Enterprise Hotel Network (OSPF + VLAN + DHCP)  
+🔹 Small Office Network (Inter-VLAN + Security)  
+🔹 Wireless Sensor Network Optimization  
 
 ---
 
-## ⚙️ Core Skills
-- Routing: OSPF, EIGRP, BGP
-- Switching: VLAN, STP
-- Security: ACL, IPSEC, ZBF
-- Network Services: DHCP, SNMP
-- Tools: Cisco Packet Tracer,gns3, Linux
-
----
-
-## 💼 Experience
-🔧 **ISP Technician – Somali Optical Networks (SON)**
-- Network installation & maintenance  
-- Troubleshooting & monitoring  
-- Customer support & system optimization  
-
----
-
-## 📌 Featured Projects
-
-### 🏨 Enterprise Hotel Network (Multi-Floor)
-- OSPF + VLAN + DHCP + Security
-- Scalable enterprise architecture
-
-### 🏢 Small Office Network Design
-- Inter-VLAN routing
-- Secure network segmentation
-
-### 📡 Wireless Sensor Network Optimization
-- Node clustering algorithm
-- Improved network efficiency
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=dacaraadamdacar&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mohamed-adan-mohamud-97558213a/
-- Email: dacar5656@gmail.com
